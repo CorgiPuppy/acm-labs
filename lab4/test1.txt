@@ -1,0 +1,5 @@
+LeftRectangles 0.00209192
+MiddleRectangles 0.00141962
+Trapezoid 0.00283887
+Parabola 0.00000012
+
